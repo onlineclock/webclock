@@ -1,6 +1,6 @@
 <div align="center">
 
-# Web Clock Online
+# Web Clock
 
 🕒 Elegant Online Web Clocks 
 
